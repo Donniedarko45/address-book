@@ -118,10 +118,4 @@ The project follows a structured file organization to enhance maintainability an
   - page.tsx
 ```
 
-## Contributing
-
-Contributions to the AddressBook application are welcome! If you have suggestions for improvements or new features, please feel free to submit a pull request or open an issue in the repository. Your contributions help enhance the application and benefit the community.
-
-## License
-
-This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
+icensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
