@@ -44,7 +44,7 @@ export default function AddressBook() {
     <ThemeProvider attribute="class" defaultTheme="dark" enableSystem>
       <div className="relative min-h-screen bg-black">
         <div className="container mx-auto p-4 relative z-10">
-          <TextHoverEffect text="AddressBook" />
+          <TextHoverEffect text="Collection Book" />
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <CollectionList

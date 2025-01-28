@@ -36,7 +36,6 @@ The AddressBook application is built using a combination of modern web technolog
 
 - **Local Storage**: A web storage solution that allows the application to store data in the user's browser, providing persistence across sessions.
 
-
 ## Getting Started
 
 part-2
@@ -85,9 +84,8 @@ Before you begin, ensure you have the following installed on your machine:
 
 4. **Access the Application**: Open your web browser and navigate to `http://localhost:3000` to view the application in action.
 
-
-
 part-3
+
 ## Usage
 
 Once the application is running, users can interact with it in several ways:
@@ -127,7 +125,3 @@ Contributions to the AddressBook application are welcome! If you have suggestion
 ## License
 
 This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
-
-## Acknowledgments
-
-A special thanks to the open-source community for providing the libraries and tools that made this project possible. Your contributions and innovations inspire developers around the world.
